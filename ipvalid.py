@@ -1,4 +1,3 @@
-import numpy as np
 def validate(ip):
 	flag = 0
 	l = ip.split('.')
